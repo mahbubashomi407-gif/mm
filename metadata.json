@@ -1,0 +1,7 @@
+{
+  "name": "Madrasa Management System (MMS)",
+  "description": "A comprehensive Bengali-localized management system for Madrasas, featuring student tracking, fee management, teacher records, and an AI-powered assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
